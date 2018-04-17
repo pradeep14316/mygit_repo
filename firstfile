@@ -2,8 +2,12 @@ This is the first line in the firstfile
 <<<<<<< HEAD
 This is the second line in the firstfile
 This is the Third line adding to the firstfile
+<<<<<<< HEAD
 =======
 This is the second line in the firstfile in mydir
 This is the third line added in the firstfile in mydir
 This the the fourth line added to the firstfile in mydir
 >>>>>>> 565d93848bd31ee77bebe290029286d7c5a833b1
+=======
+This is the fourth line adding to the firstfile
+>>>>>>> 78a6be0dfe5f6952eeefe821128a4b75736ad1ec
